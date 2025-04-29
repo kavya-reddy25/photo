@@ -1,6 +1,6 @@
 div{
     height: 900px;
     width: 1400px;
-    background-image: url(photo.jpg);
+    background-image: url("photo.jpg");
     background-size: cover;
 }
